@@ -207,4 +207,3 @@ def do_show(self, arg):
 
 if __name__ == "__main__":
     HBNBCommand().cmdloop()
-
